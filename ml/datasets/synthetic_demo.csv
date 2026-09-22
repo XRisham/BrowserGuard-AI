@@ -1,0 +1,10 @@
+text,label
+"A museum publishes its opening hours and exhibit guide.",SAFE
+"A recipe page describes vegetables and cooking temperatures.",SAFE
+"A school portal shares homework and calendar information.",SAFE
+"This synthetic sensitive_test fixture discusses age-appropriate wellbeing resources.",SENSITIVE
+"A content advisory page includes sensitive_test material in a neutral safety context.",SENSITIVE
+"The moderation guide routes sensitive_test reports to trained reviewers.",SENSITIVE
+"This unsafe_test fixture is a non-explicit adversarial classification example.",UNSAFE
+"A safety training sample contains harmful_test as a synthetic token.",UNSAFE
+"The test policy marks unsafe_test content for review.",UNSAFE

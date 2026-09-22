@@ -1,0 +1,7 @@
+services:
+  backend:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      MODEL_PATH: /app/backend/models/text_classifier.joblib
+      CORS_ORIGINS: "http://localhost:5173"
